@@ -4,6 +4,5 @@
 
 -> Python
 
--> HTML
+I have some knowledge of HTML & CSS also
 
--> CSS
