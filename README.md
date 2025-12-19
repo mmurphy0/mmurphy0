@@ -6,5 +6,5 @@
 
 ##
 
-I have some knowledge of HTML & CSS also
+I have some knowledge of HTML & CSS
 
